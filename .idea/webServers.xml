@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f39af3b5-bc31-4889-a44a-cd76f269113d" name="faberlicsalonas" url="http://faberlicsalonas.lt">
+        <fileTransfer host="faberlicsalonas.lt" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e858d70a-88c0-4e0d-9c95-cabdd3b89971" name="burokas.serveriai.lt" url="http://burokas.serveriai.lt">
+        <fileTransfer host="burokas.serveriai.lt" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

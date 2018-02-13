@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75716ed7-8818-40a7-9348-7b8243a99083" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/EimisbStorage.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/sounds/boom.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/sounds/clap.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/sounds/hihat.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/sounds/kick.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/sounds/openhat.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/sounds/ride.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/sounds/snare.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/sounds/tink.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/sounds/tom.wav" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/02 - JS and CSS Clock/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/03 - CSS Variables/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/03 - CSS Variables/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/04 - Array Cardio Day 1/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/04 - Array Cardio Day 1/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/05 - Flex Panel Gallery/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/05 - Flex Panel Gallery/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/06 - Type Ahead/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/06 - Type Ahead/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/06 - Type Ahead/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/07 - Array Cardio Day 2/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/07 - Array Cardio Day 2/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/08 - Fun with HTML5 Canvas/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/08 - Fun with HTML5 Canvas/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/09 - Dev Tools Domination/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/09 - Dev Tools Domination/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/10 - Hold Shift and Check Checkboxes/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/10 - Hold Shift and Check Checkboxes/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/11 - Custom Video Player/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/11 - Custom Video Player/scripts-FINISHED.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/11 - Custom Video Player/scripts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/11 - Custom Video Player/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/12 - Key Sequence Detection/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/12 - Key Sequence Detection/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/13 - Slide in on Scroll/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/13 - Slide in on Scroll/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/14 - JavaScript References VS Copying/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/14 - JavaScript References VS Copying/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/15 - LocalStorage/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/15 - LocalStorage/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/15 - LocalStorage/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/16 - Mouse Move Shadow/index-finished.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/16 - Mouse Move Shadow/index-start.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/17 - Sort Without Articles/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/17 - Sort Without Articles/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/18 - Adding Up Times with Reduce/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/18 - Adding Up Times with Reduce/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/19 - Webcam Fun/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/19 - Webcam Fun/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/19 - Webcam Fun/scripts-FINISHED.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/19 - Webcam Fun/scripts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/19 - Webcam Fun/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/20 - Speech Detection/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/20 - Speech Detection/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/20 - Speech Detection/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/21 - Geolocation/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/21 - Geolocation/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/21 - Geolocation/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/22 - Follow Along Link Highlighter/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/22 - Follow Along Link Highlighter/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/22 - Follow Along Link Highlighter/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/23 - Speech Synthesis/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/23 - Speech Synthesis/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/23 - Speech Synthesis/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/24 - Sticky Nav/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/24 - Sticky Nav/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/24 - Sticky Nav/style-FINISHED.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/24 - Sticky Nav/style-START.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/25 - Event Capture, Propagation, Bubbling and Once/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/25 - Event Capture, Propagation, Bubbling and Once/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/26 - Stripe Follow Along Nav/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/26 - Stripe Follow Along Nav/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/27 - Click and Drag/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/27 - Click and Drag/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/27 - Click and Drag/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/28 - Video Speed Controller/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/28 - Video Speed Controller/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/28 - Video Speed Controller/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/29 - Countdown Timer/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/29 - Countdown Timer/scripts-FINISHED.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/29 - Countdown Timer/scripts-START.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/29 - Countdown Timer/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/30 - Whack A Mole/dirt.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/30 - Whack A Mole/index-FINISHED.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/30 - Whack A Mole/index-START.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/30 - Whack A Mole/mole.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/30 - Whack A Mole/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/PULL_REQUEST_TEMPLATE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript30-master/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/change-PHP-path-kad-ATOM-klaidos menestu.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/3-SORT/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/Failu nuskaitymas su php/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/Failu nuskaitymas su php/vasara.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/PHP-global/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/assets/background.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/assets/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/PHPMailerAutoload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/VERSION" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/class.phpmailer.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/class.phpmaileroauth.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/class.phpmaileroauthgoogle.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/class.pop3.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/class.smtp.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/composer.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/DKIM.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/code_generator.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/contactform.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/contents.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/contentsutf8.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/exceptions.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/gmail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/gmail_xoauth.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/images/phpmailer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/images/phpmailer_mini.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/mail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/mailing_list.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/pop_before_smtp.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/scripts/XRegExp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/scripts/shAutoloader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/scripts/shBrushPhp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/scripts/shCore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/scripts/shLegacy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/send_file_upload.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/send_multiple_file_upload.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/sendmail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/signed-mail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/smtp.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/smtp_check.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/smtp_no_auth.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/ssl_options.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shCore.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shCoreDefault.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shCoreDjango.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shCoreEclipse.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shCoreEmacs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shCoreFadeToGrey.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shCoreMDUltra.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shCoreMidnight.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shCoreRDark.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shThemeAppleScript.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shThemeDefault.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shThemeDjango.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shThemeEclipse.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shThemeEmacs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shThemeFadeToGrey.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shThemeMDUltra.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shThemeMidnight.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shThemeRDark.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/shThemeVisualStudio.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/examples/styles/wrapping.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/extras/EasyPeasyICS.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/extras/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/extras/htmlfilter.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/extras/ntlm_sasl_client.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/get_oauth_token.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-am.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-ar.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-az.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-be.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-bg.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-ca.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-ch.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-cs.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-da.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-de.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-el.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-eo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-es.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-et.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-fa.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-fi.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-fo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-fr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-gl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-he.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-hr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-hu.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-id.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-it.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-ja.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-ka.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-ko.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-lt.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-lv.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-ms.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-nb.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-nl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-pl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-pt.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-pt_br.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-ro.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-ru.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-sk.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-sl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-sr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-sv.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-tr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-uk.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-vi.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-zh.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/lib/phpMailer/language/phpmailer.lang-zh_cn.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/screenshots/desktop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/screenshots/ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/screenshots/mobile.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/screenshots/widescreen.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/send-email.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/send.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantas/forma/styles/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/0-read-file/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/0-read-file/vasara.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/assets/background.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/assets/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/PHPMailerAutoload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/VERSION" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/class.phpmailer.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/class.phpmaileroauth.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/class.phpmaileroauthgoogle.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/class.pop3.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/class.smtp.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/composer.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/DKIM.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/code_generator.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/contactform.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/contents.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/contentsutf8.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/exceptions.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/gmail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/gmail_xoauth.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/images/phpmailer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/images/phpmailer_mini.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/mail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/mailing_list.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/pop_before_smtp.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/scripts/XRegExp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/scripts/shAutoloader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/scripts/shBrushPhp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/scripts/shCore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/scripts/shLegacy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/send_file_upload.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/send_multiple_file_upload.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/sendmail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/signed-mail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/smtp.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/smtp_check.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/smtp_no_auth.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/ssl_options.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shCore.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shCoreDefault.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shCoreDjango.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shCoreEclipse.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shCoreEmacs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shCoreFadeToGrey.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shCoreMDUltra.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shCoreMidnight.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shCoreRDark.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shThemeAppleScript.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shThemeDefault.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shThemeDjango.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shThemeEclipse.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shThemeEmacs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shThemeFadeToGrey.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shThemeMDUltra.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shThemeMidnight.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shThemeRDark.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/shThemeVisualStudio.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/examples/styles/wrapping.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/extras/EasyPeasyICS.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/extras/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/extras/htmlfilter.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/extras/ntlm_sasl_client.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/get_oauth_token.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-am.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-ar.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-az.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-be.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-bg.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-ca.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-ch.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-cs.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-da.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-de.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-el.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-eo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-es.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-et.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-fa.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-fi.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-fo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-fr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-gl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-he.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-hr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-hu.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-id.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-it.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-ja.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-ka.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-ko.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-lt.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-lv.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-ms.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-nb.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-nl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-pl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-pt.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-pt_br.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-ro.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-ru.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-sk.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-sl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-sr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-sv.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-tr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-uk.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-vi.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-zh.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/lib/PHPMailer-master/language/phpmailer.lang-zh_cn.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/send-email.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/sentPhp/send.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/1-email-sent/styles/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/2-PHP-globals/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/3-SORT/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis13/eimantasGood/4-class-obj/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis14/eimantas/4-static/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis14/eimantas/5-class-extends/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis14/eimantas/6-class-extensions/index-interface-abstract.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis14/eimantas/6-class-extensions/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis14/eimantasGood/4-static/index-rekursija.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis14/eimantasGood/4-static/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis14/eimantasGood/5-class-extends/index-.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis14/eimantasGood/5-class-extends/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis14/eimantasGood/6-class-extensions/index-interface-abstract.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis14/eimantasGood/6-class-extensions/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis15-mysql/eimantas/1-mysql-setup/hospital (1).sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis15-mysql/eimantas/1-mysql-setup/mysql-komandos" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis15-mysql/eimantas/1-mysql-setup/readme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis15-mysql/eimantas/1-mysql-setup/readme.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis15-mysql/eimantasGood/1-mysql-setup/hospital (1).sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis15-mysql/eimantasGood/1-mysql-setup/mysql-komandos" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis15-mysql/eimantasGood/1-mysql-setup/readme.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/assets/background.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/assets/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/controler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/3-php-DB-save-registered-user/styles/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/prisijungimas-prie-DB/index-connect.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/prisijungimas-prie-db-naudojant-funkcija/index-php-DB-insert-select-user.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantas/prisijungimas-prie-db-naudojant-funkcija/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/1-DB-connect/index-connect.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/1-DB-connect/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/2-DB-insert-get-user/index-php-DB-insert-select-user.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/2-DB-insert-get-user/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/assets/background.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/assets/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/controler-DB-save-registered-user.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/controler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis16/eimantasGood/3-php-DB-save-registered-user/styles/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/article.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/controler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/0-DB-print-articles/styles/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/controler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/db.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/styles/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantas/1-DB-print-ligonine/view.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/.idea/tautyvdas.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/article.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/controler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/0-DB-print-articles/styles/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/db.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/styles/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/1-DB-print-ligonine/view.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotis17/eimantasGood/2-install-LARAVEL/readme.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/2/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/ads.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/css/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/gallery.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/3-php-include/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantas/4/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/1/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/2/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/css/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/gallery.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/3-php-include/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practical tasks (php)/uzduotys12/eimantasGood/4/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/naujienu portalas/lib/index.php" />
+      <change beforePath="$PROJECT_DIR$/naujienu portalas/index.php" afterPath="$PROJECT_DIR$/naujienu portalas/index.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practical tasks (js)/Day2/1/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-366">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.load</find>
+      <find>.para</find>
+      <find>title_ca</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/naujienu portalas/index.php" />
+        <option value="$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html" />
+        <option value="&lt;eddaf292-0ec2-48e8-b04d-23d2717fa945&gt;/domains/faberlicsalonas.lt/public_html/templates/default/index/product_info.html" />
+        <option value="&lt;eddaf292-0ec2-48e8-b04d-23d2717fa945&gt;/domains/faberlicsalonas.lt/public_html/js2/custom.js" />
+        <option value="&lt;eddaf292-0ec2-48e8-b04d-23d2717fa945&gt;/domains/faberlicsalonas.lt/public_html/js2/shop.js" />
+        <option value="&lt;eddaf292-0ec2-48e8-b04d-23d2717fa945&gt;/domains/faberlicsalonas.lt/public_html/templates/default/footer.html" />
+        <option value="&lt;eddaf292-0ec2-48e8-b04d-23d2717fa945&gt;/domains/faberlicsalonas.lt/public_html/templates/default/stylesheet.css" />
+        <option value="&lt;eddaf292-0ec2-48e8-b04d-23d2717fa945&gt;/domains/faberlicsalonas.lt/public_html/includes/start.php" />
+        <option value="$PROJECT_DIR$/JavaScript30-master/02 - JS and CSS Clock/index-START.html" />
+        <option value="&lt;f39af3b5-bc31-4889-a44a-cd76f269113d&gt;/domains/faberlicsalonas.lt/public_html/templates/default/stylesheet.css" />
+        <option value="&lt;f39af3b5-bc31-4889-a44a-cd76f269113d&gt;/domains/faberlicsalonas.lt/public_html/templates/default/header.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="62" />
+    <option name="y" value="16" />
+    <option name="width" value="1218" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EimisbStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EimisbStorage" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="EimisbStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EimisbStorage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JavaScript30-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="EimisbStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EimisbStorage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JavaScript30-master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="01 - JavaScript Drum Kit" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75716ed7-8818-40a7-9348-7b8243a99083" name="Default" comment="" />
+      <created>1515698975160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515698975160</updated>
+      <workItem from="1515698982495" duration="2572000" />
+      <workItem from="1516044144458" duration="2291000" />
+      <workItem from="1516046505709" duration="141000" />
+      <workItem from="1516046669082" duration="123000" />
+      <workItem from="1516046813245" duration="20000" />
+      <workItem from="1516046871483" duration="4298000" />
+      <workItem from="1516133859484" duration="684000" />
+      <workItem from="1516137929565" duration="4889000" />
+      <workItem from="1516560973501" duration="4030000" />
+      <workItem from="1517263708316" duration="2842000" />
+      <workItem from="1518543596221" duration="132000" />
+      <workItem from="1518543732009" duration="1007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23029000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="62" y="16" width="1218" height="696" extended-state="1" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23426062" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17138103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="50" lean-forward="false" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="50" lean-forward="false" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="61" column="50" lean-forward="false" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="50" lean-forward="true" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/naujienu portalas/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/naujienu portalas/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/index-FINISHED.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/02 - JS and CSS Clock/index-FINISHED.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/02 - JS and CSS Clock/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="78" column="24" lean-forward="true" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical tasks (js)/Day2/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practical tasks (js)/Day2/1/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-366">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
