@@ -8,10 +8,14 @@
     <section>
       <h1> <?php echo "Testuojam PHP rikevimo algoritma"; ?> </h1>
 
+        <script>
 
+            var array = [];
+        </script>
 
       <?php
           $arrayPrice = [213, 12, 1, 31, 645, 165, 213, 534, 1, 4, 1, 132, 6, 3, 35];
+
 
           // uzduotis: surikiutoi masyva didejimo tvarka
 
